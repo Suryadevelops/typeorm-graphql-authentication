@@ -22,7 +22,7 @@
       "graphql-tools": "^7.0.2",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.29"
+      "typeorm": "0.2.30"
    },
    "scripts": {
       "start": "nodemon --exec ts-node src/index.ts"
