@@ -18,7 +18,7 @@
       "bcryptjs": "^2.4.3",
       "express": "^4.17.1",
       "express-session": "^1.17.1",
-      "graphql": "^15.5.0",
+      "graphql": "^15.7.0",
       "graphql-tools": "^7.0.3",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.10",
