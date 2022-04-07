@@ -19,7 +19,7 @@
       "express": "^4.17.1",
       "express-session": "^1.17.1",
       "graphql": "^15.5.0",
-      "graphql-tools": "^7.0.3",
+      "graphql-tools": "^8.2.5",
       "pg": "^8.4.0",
       "reflect-metadata": "^0.1.10",
       "typeorm": "0.2.31"
